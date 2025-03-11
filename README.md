@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-end-ML-Project
 
 
@@ -119,3 +120,6 @@ Now open up your local host 0.0.0.0:8080
 
 
  git config --global user.name "entbappy"
+=======
+# wine-quality-prediction
+>>>>>>> f2a1eed7396345cf64059d78dee0a8663ea06a7f
